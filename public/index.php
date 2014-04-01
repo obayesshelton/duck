@@ -40,7 +40,7 @@
 
     <div class="div">
 
-        <img src="duck.jpeg" class="imgBorder" width="272" height="280"/>
+        <img src="http://www.justducks.co.uk/Images/General%20Ducks/32cm%20Giant%20Duck.jpeg" class="imgBorder" width="272" height="280"/>
 
         <p>HELP ME !</p>
 
