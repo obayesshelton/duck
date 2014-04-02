@@ -41,6 +41,10 @@
         <h1>Where is my Duck?</h1>
         <ul class="polariods">
             <li>
+                <img src="https://farm8.staticflickr.com/7450/13581211105_cf090dc913.jpg">
+                <span>Quack, nearly made it home......</span>
+            </li> 
+            <li>
                 <img src="https://farm4.staticflickr.com/3748/13568241533_bf0588be3e.jpg">
                 <span>Help, it's nearly Lunchtime!</span>
             </li>   
