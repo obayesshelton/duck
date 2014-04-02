@@ -38,7 +38,7 @@
     </head>
 
     <body>
-        <h1>Where is my Duck</h1>
+        <h1>Where is my Duck?</h1>
         <ul class="polariods">
             <li>
                 <img src="https://farm4.staticflickr.com/3748/13568241533_bf0588be3e.jpg">
