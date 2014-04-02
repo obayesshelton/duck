@@ -41,6 +41,10 @@
         <h1>Where is my Duck?</h1>
         <ul class="polariods">
             <li>
+                <img src="https://farm4.staticflickr.com/3799/13582517374_c63c8051b4.jpg">
+                <span>A duck has had its feathers ruffled</span>
+            </li>
+            <li>
                 <img src="https://farm8.staticflickr.com/7450/13581211105_cf090dc913.jpg">
                 <span>Quack, nearly made it home......</span>
             </li> 
