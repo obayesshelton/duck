@@ -13,11 +13,11 @@
 
         .div {
             width:270px;
-            height:150px;
+            height:550px;
             position:absolute;
             left:50%;
             top:50%;
-            margin:-75px 0 0 -135px;
+            margin:-275px 0 0 -135px;
         }
 
         .imgBorder {
