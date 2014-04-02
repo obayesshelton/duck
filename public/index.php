@@ -12,12 +12,12 @@
         }
 
         .div {
-            width:270px;
+            width:364px;
             height:550px;
             position:absolute;
             left:50%;
             top:50%;
-            margin:-275px 0 0 -135px;
+            margin:-275px 0 0 -182px;
         }
 
         .imgBorder {
