@@ -34,6 +34,15 @@
                 margin-top: 10px;
                 text-align: center;
             }
+            .active .hover{
+                display: none;
+            }
+            .active:hover .state{
+                display: none;
+            }
+            .active:hover .hover{
+                display: inline-block;
+            }
         </style>
 
 <script>
@@ -52,6 +61,11 @@
     <body>
         <h1>Where is my Duck?</h1>
         <ul class="polariods">
+            <li class="active">
+                <img src="https://farm4.staticflickr.com/3768/13609881584_8a10b26b4c.jpg" class="state">
+                <img src="https://farm4.staticflickr.com/3801/13609881724_dbd5e1dca0.jpg" class="hover">
+                <span>Hover over me to see what they did!!</span>
+            </li>
             <li>
                 <img src="https://farm8.staticflickr.com/7349/13589867724_f7ffd43d64.jpg">
                 <span></span>
