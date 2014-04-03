@@ -36,14 +36,14 @@
             }
         </style>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-47840763-3', 'where-is-my-duck.co.uk');
-  ga('send', 'pageview');
+          ga('create', 'UA-47840763-3', 'where-is-my-duck.co.uk');
+          ga('send', 'pageview');
 
 </script>
 
@@ -54,7 +54,7 @@
         <ul class="polariods">
             <li>
                 <img src="https://farm8.staticflickr.com/7349/13589867724_f7ffd43d64.jpg">
-                <span></span>
+                <span>Things are getting screwed up!</span>
             </li>
             <li>
                 <img src="https://farm4.staticflickr.com/3819/13589490405_b6a15bfe7e.jpg">
@@ -70,7 +70,7 @@
             </li>
             <li>
                 <img src="https://farm8.staticflickr.com/7410/13597809075_2d8669d435.jpg">
-                <span>Intercepted by pirates on the way to Africa</span>
+                <span>Intercepted by pirates on the way to Africa!</span>
             </li>
             <li>
                 <img src="https://farm8.staticflickr.com/7229/13589531373_61c3f50be1.jpg">
@@ -78,11 +78,11 @@
             </li>
             <li>
                 <img src="https://farm4.staticflickr.com/3799/13582517374_43dd2d4d98.jpg">
-                <span>A duck has had its feathers ruffled</span>
+                <span>A duck has had its feathers ruffled!</span>
             </li>
             <li>
                 <img src="https://farm8.staticflickr.com/7450/13581211105_cf090dc913.jpg">
-                <span>Quack, nearly made it home......</span>
+                <span>Quack, nearly made it home......!</span>
             </li> 
             <li>
                 <img src="https://farm4.staticflickr.com/3748/13568241533_bf0588be3e.jpg">
