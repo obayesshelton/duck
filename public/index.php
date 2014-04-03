@@ -53,6 +53,18 @@
         <h1>Where is my Duck?</h1>
         <ul class="polariods">
             <li>
+                <img src="https://farm4.staticflickr.com/3819/13589490405_b6a15bfe7e.jpg">
+                <span>Help, they've really hit the nail on the head!</span>
+            </li>
+            <li>
+                <img src="https://farm8.staticflickr.com/7337/13589488975_2df58c5182.jpg">
+                <span>I am feline scared!</span>
+            </li>
+            <li>
+                <img src="https://farm4.staticflickr.com/3688/13589868954_bd996b9428.jpg">
+                <span>Hang in there</span>
+            </li>
+            <li>
                 <img src="https://farm8.staticflickr.com/7410/13597809075_2d8669d435.jpg">
                 <span>Intercepted by pirates on the way to Africa</span>
             </li>
