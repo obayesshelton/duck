@@ -41,6 +41,10 @@
         <h1>Where is my Duck?</h1>
         <ul class="polariods">
             <li>
+                <img src="https://farm4.staticflickr.com/3688/13589868954_bd996b9428.jpg">
+                <span>Hang in there</span>
+            </li>
+            <li>
                 <img src="https://farm8.staticflickr.com/7410/13597809075_2d8669d435.jpg">
                 <span>Intercepted by pirates on the way to Africa</span>
             </li>
