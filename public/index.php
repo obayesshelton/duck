@@ -42,7 +42,7 @@
         <ul class="polariods">
             <li>
                 <img src="https://farm8.staticflickr.com/7410/13597809075_2d8669d435.jpg">
-                <span>?</span>
+                <span>Intercepted by pirates on the way to Africa</span>
             </li>
             <li>
                 <img src="https://farm8.staticflickr.com/7229/13589531373_61c3f50be1.jpg">
