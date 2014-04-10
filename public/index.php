@@ -63,7 +63,7 @@
         <ul class="polariods">
             <li>
                 <img src="https://farm8.staticflickr.com/7029/13754785113_11f844e103.jpg">
-                <span></span>
+                <span>Who is going to foot the hospital BILL!</span>
             </li>
 
             <li class="active">
