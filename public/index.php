@@ -61,6 +61,11 @@
     <body>
         <h1>Where is my Duck?</h1>
         <ul class="polariods">
+            <li>
+                <img src="https://farm8.staticflickr.com/7029/13754785113_11f844e103.jpg">
+                <span></span>
+            </li>
+
             <li class="active">
                 <img src="https://farm4.staticflickr.com/3832/13618502293_3cd786301c.jpg" class="state">
                 <img src="https://farm4.staticflickr.com/3730/13618502403_6d58e32cc8.jpg" class="hover">
