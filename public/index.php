@@ -62,6 +62,14 @@
         <h1>Where is my Duck?</h1>
         <ul class="polariods">
             <li>
+                <img src="https://farm4.staticflickr.com/3760/13766647135_cddcb67143.jpg">
+                <span>EGGstatic to be on the way home</span>
+            </li>
+             <li>
+                <img src="https://farm3.staticflickr.com/2902/13767016424_c2a8843721.jpg">
+                <span>The perpetrators have been caught, the Ducks have been realeased!!</span>
+            </li>
+            <li>
                 <img src="https://farm8.staticflickr.com/7314/13767019994_51c0f3fce9.jpg">
                 <span>Don't worry about me, I'm hraving the trime orf my rife, hiccup!</span>
             </li>
