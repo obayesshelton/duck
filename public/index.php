@@ -63,7 +63,7 @@
         <ul class="polariods">
             <li>
                 <img src="https://farm8.staticflickr.com/7314/13767019994_51c0f3fce9.jpg">
-                <span></span>
+                <span>Don't worry about me, I'm hraving the trime orf my rife, hiccup!</span>
             </li>
             <li>
                 <img src="https://farm8.staticflickr.com/7029/13754785113_11f844e103.jpg">
